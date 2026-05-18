@@ -92,9 +92,9 @@ sudo docker compose exec backend php artisan test
 
 Antes de proceder con la modernización, se realizaron auditorías completas de la deuda técnica, fallos de seguridad y diseño de arquitectura. Te invitamos a leer los documentos de análisis y planificación iniciales:
 
-*   **[Análisis de Deuda Técnica y Seguridad del Backend](file:///home/fredy/Documentos/Prueba_tecnica/proyecto-prueba/analisis_backend.md)**: Identificación de inyección SQL, vulnerabilidades XSS, middleware de autenticación ausente y optimizaciones de consultas.
-*   **[Análisis de Deuda Técnica del Frontend Legacy](file:///home/fredy/Documentos/Prueba_tecnica/proyecto-prueba/analisis_frontend.md)**: Diagnóstico del desorden de estado, acoplamiento de lógica, e ineficiencias de estilo.
-*   **[Plan de Migración Paso a Paso a Laravel 11](file:///home/fredy/Documentos/Prueba_tecnica/proyecto-prueba/plan_migracion_laravel11.md)**: Estrategia estructurada para la actualización progresiva de dependencias y estructura de directorios.
+*   **[Análisis de Deuda Técnica y Seguridad del Backend](analisis_backend.md)**: Identificación de inyección SQL, vulnerabilidades XSS, middleware de autenticación ausente y optimizaciones de consultas.
+*   **[Análisis de Deuda Técnica del Frontend Legacy](analisis_frontend.md)**: Diagnóstico del desorden de estado, acoplamiento de lógica, e ineficiencias de estilo.
+*   **[Plan de Migración Paso a Paso a Laravel 11](plan_migracion_laravel11.md)**: Estrategia estructurada para la actualización progresiva de dependencias y estructura de directorios.
 
 ---
 
