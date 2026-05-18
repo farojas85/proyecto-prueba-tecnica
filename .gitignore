@@ -1,0 +1,34 @@
+# Laravel Backend Ignored
+/backend-actualizado/.env
+/backend-actualizado/vendor/
+/backend-actualizado/node_modules/
+/backend-actualizado/public/storage
+/backend-actualizado/public/hot
+/backend-actualizado/storage/*.key
+/backend-actualizado/storage/framework/cache/data/*
+/backend-actualizado/storage/framework/sessions/*
+/backend-actualizado/storage/framework/testing/*
+/backend-actualizado/storage/framework/views/*
+/backend-actualizado/storage/logs/*
+/backend-actualizado/bootstrap/cache/*
+/backend-actualizado/.phpunit.result.cache
+
+# Vue Frontend Ignored
+/frontend-actualizado/node_modules/
+/frontend-actualizado/dist/
+/frontend-actualizado/.env.local
+/frontend-actualizado/.env.*.local
+/frontend-actualizado/npm-debug.log*
+/frontend-actualizado/yarn-debug.log*
+/frontend-actualizado/yarn-error.log*
+/frontend-actualizado/pnpm-debug.log*
+
+# System & Editor Ignored
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
